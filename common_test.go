@@ -1,5 +1,4 @@
 // common_test.go
-
 package main
 
 import (
