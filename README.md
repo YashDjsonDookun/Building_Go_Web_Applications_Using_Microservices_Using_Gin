@@ -20,6 +20,7 @@
     ├── header.html
     ├── index.html
     └── menu.html
+    └── article.html
 ├── common_test.go
 ├── handlers.article.go
 ├── handlers.article_test.go
