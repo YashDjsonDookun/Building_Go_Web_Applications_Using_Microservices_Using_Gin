@@ -20,4 +20,10 @@
     ├── header.html
     ├── index.html
     └── menu.html
+├── common_test.go
+├── handlers.article.go
+├── handlers.article_test.go
+├── models.article.go
+├── models.article_test.go
+└── routes.go
 ```
