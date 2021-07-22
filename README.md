@@ -2,3 +2,9 @@
 
 ###  Installing Dependencies
 > go get -u github.com/gin-gonic/gin
+
+### Build App
+> go build -o app
+
+### Run App
+> ./app
