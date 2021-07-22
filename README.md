@@ -11,7 +11,7 @@
 
 > ./app
 
-### Project File Strucure:
+### Project File Strucure
 
 ```
 ├── main.go
